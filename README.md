@@ -12,17 +12,23 @@
 This repository contains the supplementary files mentioned in the manuscript:  
 **Fain and Dobrovolny, (Submitted), "Finding Connections: A survey of within host viral dynamics modeling techniques"**
 
-to recreate and reproduce the figures and analyses in
+#### Overview of content
+- [Figure 1 and 11](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/Figure%201%20and%2011) contains the code to recreate the plots for  figures 1 and 11
+- [Figure 4 through 9](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/Figure%204%20through%209) contains the code to recreate the plots for figures 4 through 9
+- [Model_Codes](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/Model_Codes) contains the code to reproduce the data for the plots of figures 4 through 9
+- [Ollama_Code](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/Ollama_Code) contains the code to reproduce the data for the plots of figures 1 and 11
+- [articles](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/articles) contains the lists of articles analyzed.
+- [lit_review](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/lit_review) contains the lists of articles found during the literature search
 
 ## Software Install
 
 To recreate the plots in the figures, _Python_ is needed. 
->[!NOTE]
->The provided plotting codes should work with current releases of _Python_ packages. 
+To reproduce the data for the plots, _CUDA_, _Python_, and _ollama_ are needed. 
+C code is compiled using "nvcc". 
 
-To reproduce the data for the plots, _CUDA_, _Python_, and _ollama_ are needed. C code is compiled using "nvcc". 
 >[!NOTE]
->After the necessary software is installed, the codes provided will create the data for each plot
+>The provided codes should work with current releases of packages and software.
+>A guide for installing _CUDA_ and _ollama_ are not provided.
 
 ## Recreation
 
