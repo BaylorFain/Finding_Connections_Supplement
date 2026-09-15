@@ -1,0 +1,712 @@
+TY  - JOUR
+TI  - Multi-agent model of hepatitis C virus infection
+AU  - Wasik, Szymon
+AU  - Jackowiak, Paulina
+AU  - Figlerowicz, Marek
+AU  - Blazewicz, Jacek
+T2  - Arti. Intel. Med.
+DA  - 2014/02//
+PY  - 2014
+DO  - 10.1016/j.artmed.2013.11.001
+VL  - 60
+IS  - 2
+SP  - 123
+EP  - 131
+ER  - 
+
+TY  - JOUR
+TI  - The review of differential equation models of HBV infection dynamics
+AU  - Li, Miaolei
+AU  - Zu, Jian
+T2  - Journal of Virological Methods
+AB  - Understanding the infection and pathogenesis mechanism of hepatitis B virus (HBV) is very important for the prevention and treatment of hepatitis B. Mathematical models contribute to illuminate the dynamic process of HBV replication in vivo. Therefore, in this paper we review the viral dynamics in HBV infection, which may help us further understand the dynamic mechanism of HBV infection and efficacy of antiviral treatment. Firstly, we introduce a family of deterministic models by considering different biological mechanisms, such as, antiviral therapy, CTL immune response, multi-types of infected hepatocytes, time delay and spatial diffusion. Particularly, we briefly describe the stochastic models of HBV infection. Secondly, we introduce the commonly used parameter estimation methods for HBV viral dynamic models and briefly discuss how to use these methods to estimate unknown parameters (such as drug efficacy) through two specific examples. We also discuss the idea and method of model identification and use a specific example to illustrate its application. Finally, we propose three new research programs, namely, considering HBV drug-resistant strain, coupling within-host and between-host dynamics in HBV infection and linking population dynamics with evolutionary dynamics of HBV diversity.
+DA  - 2019/04//
+PY  - 2019
+DO  - 10.1016/j.jviromet.2019.01.014
+DP  - DOI.org (Crossref)
+VL  - 266
+SP  - 103
+EP  - 113
+J2  - Journal of Virological Methods
+LA  - en
+SN  - 01660934
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0166093418303963
+Y2  - 2026/09/02/19:41:55
+ER  - 
+
+TY  - JOUR
+TI  - Mathematical models for dengue fever epidemiology: A 10-year systematic review
+AU  - Aguiar, Maíra
+AU  - Anam, Vizda
+AU  - Blyuss, Konstantin B.
+AU  - Estadilla, Carlo Delfin S.
+AU  - Guerrero, Bruno V.
+AU  - Knopoff, Damián
+AU  - Kooi, Bob W.
+AU  - Srivastav, Akhil Kumar
+AU  - Steindorf, Vanessa
+AU  - Stollenwerk, Nico
+T2  - Physics of Life Reviews
+AB  - Mathematical models have a long history in epidemiological research, and as the COVID-19 pandemic progressed, research on mathematical modeling became imperative and very inﬂuential to understand the epidemiological dynamics of disease spreading. Mathematical models describing dengue fever epidemiological dynamics are found back from 1970. Dengue fever is a viral mosquito-borne infection caused by four antigenically related but distinct serotypes (DENV-1 to DENV-4). With 2.5 billion people at risk of acquiring the infection, it is a major international public health concern. Although most of the cases are asymptomatic or mild, the disease immunological response is complex, with severe disease linked to the antibody-dependent enhancement (ADE) - a disease augmentation phenomenon where pre-existing antibodies to previous dengue infection do not neutralize but rather enhance the new infection. Here, we present a 10-year systematic review on mathematical models for dengue fever epidemiology. Speciﬁcally, we review multi-strain frameworks describing host-to-host and vector-host transmission models and within-host models describing viral replication and the respective immune response.
+DA  - 2022/03//
+PY  - 2022
+DO  - 10.1016/j.plrev.2022.02.001
+DP  - DOI.org (Crossref)
+VL  - 40
+SP  - 65
+EP  - 92
+J2  - Physics of Life Reviews
+LA  - en
+SN  - 15710645
+ST  - Mathematical models for dengue fever epidemiology
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1571064522000045
+Y2  - 2026/09/02/19:49:01
+ER  - 
+
+TY  - JOUR
+TI  - Modelling the Course of an HIV Infection: Insights from Ecology and Evolution
+AU  - Alizon, Samuel
+AU  - Magnus, Carsten
+T2  - Viruses
+AB  - The Human Immunodeﬁciency Virus (HIV) is one of the most threatening viral agents. This virus infects approximately 33 million people, many of whom are unaware of their status because, except for ﬂu-like symptoms right at the beginning of the infection during the acute phase, the disease progresses more or less symptom-free for 5 to 10 years. During this asymptomatic phase, the virus slowly destroys the immune system until the onset of AIDS when opportunistic infections like pneumonia or Kaposi’s sarcoma can overcome immune defenses. Mathematical models have played a decisive role in estimating important parameters (e.g., virion clearance rate or life-span of infected cells). However, most models only account for the acute and asymptomatic latency phase and cannot explain the progression to AIDS. Models that account for the whole course of the infection rely on different hypotheses to explain the progression to AIDS. The aim of this study is to review these models, present their technical approaches and discuss the robustness of their biological hypotheses. Among the few models capturing all three phases of an HIV infection, we can distinguish between those that mainly rely on population dynamics and those that involve virus evolution. Overall, the modeling quest to capture the dynamics of an HIV infection has improved our understanding of the progression to AIDS but, more generally, it has also led to the insight that population dynamics and evolutionary processes can be necessary to explain the course of an infection.
+DA  - 2012/10/04/
+PY  - 2012
+DO  - 10.3390/v4101984
+DP  - DOI.org (Crossref)
+VL  - 4
+IS  - 10
+SP  - 1984
+EP  - 2013
+J2  - Viruses
+LA  - en
+SN  - 1999-4915
+ST  - Modelling the Course of an HIV Infection
+UR  - https://www.mdpi.com/1999-4915/4/10/1984
+Y2  - 2026/09/02/19:49:06
+ER  - 
+
+TY  - JOUR
+TI  - Review Paper. An Introduction to Lymphocyte and Viral Dynamics: The Power and Limitations of Mathematical Analysis
+AU  - Asquith, Becca
+AU  - Bangham, Charles R. M.
+T2  - Proceedings: Biological Sciences
+DA  - 2003///
+PY  - 2003
+DO  - 10.1098/rspb.2003.2386
+DP  - Zotero
+VL  - 270
+IS  - 1525
+SP  - 1651
+EP  - 1657
+LA  - en
+UR  - http://www.jstor.org/stable/3592227
+ER  - 
+
+TY  - JOUR
+TI  - Quantifying HTLV‐I dynamics
+AU  - Asquith, Becca
+AU  - Bangham, Charles R M
+T2  - Immunology & Cell Biology
+AB  - Despite significant advances in our understanding of the immune response to persistent viruses like human T‐cell lymphotropic virus type I (HTLV‐I), many important questions remain unanswered. Mathematical modelling enables us to interpret and synthesise diverse experimental data in new ways and thus can contribute to our understanding. Here, we review recent advances in mathematical modelling of HTLV‐I infection and illustrate how mathematics has enabled us to identify factors that determine an individual's viral burden and risk of developing HTLV‐I‐associated diseases.
+DA  - 2007/06//
+PY  - 2007
+DO  - 10.1038/sj.icb.7100050
+DP  - DOI.org (Crossref)
+VL  - 85
+IS  - 4
+SP  - 280
+EP  - 286
+J2  - Immunol Cell Biol
+LA  - en
+SN  - 0818-9641, 1440-1711
+UR  - https://onlinelibrary.wiley.com/doi/10.1038/sj.icb.7100050
+Y2  - 2026/09/02/19:49:17
+ER  - 
+
+TY  - JOUR
+TI  - A review of mathematical models of influenza A infections within a host or cell culture: lessons learned and challenges ahead
+AU  - Beauchemin, Catherine Aa
+AU  - Handel, Andreas
+T2  - BMC Public Health
+AB  - Most mathematical models used to study the dynamics of influenza A have thus far focused on the between-host population level, with the aim to inform public health decisions regarding issues such as drug and social distancing intervention strategies, antiviral stockpiling or vaccine distribution. Here, we investigate mathematical modeling of influenza infection spread at a different scale; namely that occurring within an individual host or a cell culture. We review the models that have been developed in the last decades and discuss their contributions to our understanding of the dynamics of influenza infections. We review kinetic parameters (e.g., viral clearance rate, lifespan of infected cells) and values obtained through fitting mathematical models, and contrast them with values obtained directly from experiments. We explore the symbiotic role of mathematical models and experimental assays in improving our quantitative understanding of influenza infection dynamics. We also discuss the challenges in developing better, more comprehensive models for the course of influenza infections within a host or cell culture. Finally, we explain the contributions of such modeling efforts to important public health issues, and suggest future modeling studies that can help to address additional questions relevant to public health.
+DA  - 2011///
+PY  - 2011
+DO  - 10.1186/1471-2458-11-S1-S7
+DP  - DOI.org (Crossref)
+VL  - 11
+IS  - Suppl 1
+SP  - S7
+J2  - BMC Public Health
+LA  - en
+SN  - 1471-2458
+ST  - A review of mathematical models of influenza A infections within a host or cell culture
+UR  - http://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-11-S1-S7
+Y2  - 2026/09/02/19:49:29
+ER  - 
+
+TY  - JOUR
+TI  - Modeling Influenza Virus Infection: A Roadmap for Influenza Research
+AU  - Boianelli, Alessandro
+AU  - Nguyen, Van
+AU  - Ebensen, Thomas
+AU  - Schulze, Kai
+AU  - Wilk, Esther
+AU  - Sharma, Niharika
+AU  - Stegemann-Koniszewski, Sabine
+AU  - Bruder, Dunja
+AU  - Toapanta, Franklin
+AU  - Guzmán, Carlos
+AU  - Meyer-Hermann, Michael
+AU  - Hernandez-Vargas, Esteban
+T2  - Viruses
+AB  - Influenza A virus (IAV) infection represents a global threat causing seasonal outbreaks and pandemics. Additionally, secondary bacterial infections, caused mainly by Streptococcus pneumoniae, are one of the main complications and responsible for the enhanced morbidity and mortality associated with IAV infections. In spite of the significant advances in our knowledge of IAV infections, holistic comprehension of the interplay between IAV and the host immune response (IR) remains largely fragmented. During the last decade, mathematical modeling has been instrumental to explain and quantify IAV dynamics. In this paper, we review not only the state of the art of mathematical models of IAV infection but also the methodologies exploited for parameter estimation. We focus on the adaptive IR control of IAV infection and the possible mechanisms that could promote a secondary bacterial coinfection. To exemplify IAV dynamics and identifiability issues, a mathematical model to explain the interactions between adaptive IR and IAV infection is considered. Furthermore, in this paper we propose a roadmap for future influenza research. The development of a mathematical modeling framework with a secondary bacterial coinfection, immunosenescence, host genetic factors and responsiveness to vaccination will be pivotal to advance IAV infection understanding and treatment optimization.
+DA  - 2015/10/12/
+PY  - 2015
+DO  - 10.3390/v7102875
+DP  - DOI.org (Crossref)
+VL  - 7
+IS  - 10
+SP  - 5274
+EP  - 5304
+J2  - Viruses
+LA  - en
+SN  - 1999-4915
+ST  - Modeling Influenza Virus Infection
+UR  - https://www.mdpi.com/1999-4915/7/10/2875
+Y2  - 2026/09/02/19:49:38
+ER  - 
+
+TY  - JOUR
+TI  - Viral kinetic modeling: state of the art
+AU  - Canini, Laetitia
+AU  - Perelson, Alan S.
+T2  - Journal of Pharmacokinetics and Pharmacodynamics
+AB  - Viral kinetic (VK) modeling has led to increased understanding of the within host dynamics of viral infections and the effects of therapy. Here we review recent developments in the modeling of viral infection kinetics with emphasis on two infectious diseases: hepatitis C and inﬂuenza. We review how VK modeling has evolved from simple models of viral infections treated with a drug or drug cocktail with an assumed constant effectiveness to models that incorporate drug pharmacokinetics and pharmacodynamics, as well as phenomenological models that simply assume drugs have time varying-effectiveness. We also discuss multiscale models that include intracellular events in viral replication, models of drug-resistance, models that include innate and adaptive immune responses and models that incorporate cell-to-cell spread of infection. Overall, VK modeling has provided new insights into the understanding of the disease progression and the modes of action of several drugs. We expect that VK modeling will be increasingly used in the coming years to optimize drug regimens in order to improve therapeutic outcomes and treatment tolerability for infectious diseases.
+DA  - 2014/10//
+PY  - 2014
+DO  - 10.1007/s10928-014-9363-3
+DP  - DOI.org (Crossref)
+VL  - 41
+IS  - 5
+SP  - 431
+EP  - 443
+J2  - J Pharmacokinet Pharmacodyn
+LA  - en
+SN  - 1567-567X, 1573-8744
+ST  - Viral kinetic modeling
+UR  - https://link.springer.com/10.1007/s10928-014-9363-3
+Y2  - 2026/09/02/19:49:42
+ER  - 
+
+TY  - JOUR
+TI  - Mechanistic modeling of viral particle production
+AU  - Canova, Christopher T.
+AU  - Inguva, Pavan K.
+AU  - Braatz, Richard D.
+T2  - Biotechnology and Bioengineering
+AB  - Viral systems such as wild‐type viruses, viral vectors, and virus‐like particles are essential components of modern biotechnology and medicine. Despite their importance, the commercial‐scale production of viral systems remains highly inefficient for multiple reasons. Computational strategies are a promising avenue for improving process development, optimization, and control, but require a mathematical description of the system. This article reviews mechanistic modeling strategies for the production of viral particles, both at the cellular and bioreactor scales. In many cases, techniques and models from adjacent fields such as epidemiology and wild‐type viral infection kinetics can be adapted to construct a suitable process model. These process models can then be employed for various purposes such as in‐silico testing of novel process operating strategies and/or advanced process control.
+DA  - 2023/03//
+PY  - 2023
+DO  - 10.1002/bit.28296
+DP  - DOI.org (Crossref)
+VL  - 120
+IS  - 3
+SP  - 629
+EP  - 641
+J2  - Biotech & Bioengineering
+LA  - en
+SN  - 0006-3592, 1097-0290
+UR  - https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.28296
+Y2  - 2026/09/02/19:49:47
+ER  - 
+
+TY  - JOUR
+TI  - Assessing Mathematical Models of Influenza Infections Using Features of the Immune Response
+AU  - Dobrovolny, Hana M.
+AU  - Reddy, Micaela B.
+AU  - Kamal, Mohamed A.
+AU  - Rayner, Craig R.
+AU  - Beauchemin, Catherine A. A.
+T2  - PLoS ONE
+A2  - Yates, Andrew J.
+AB  - The role of the host immune response in determining the severity and duration of an influenza infection is still unclear. In order to identify severity factors and more accurately predict the course of an influenza infection within a human host, an understanding of the impact of host factors on the infection process is required. Despite the lack of sufficiently diverse experimental data describing the time course of the various immune response components, published mathematical models were constructed from limited human or animal data using various strategies and simplifying assumptions. To assess the validity of these models, we assemble previously published experimental data of the dynamics and role of cytotoxic T lymphocytes, antibodies, and interferon and determined qualitative key features of their effect that should be captured by mathematical models. We test these existing models by confronting them with experimental data and find that no single model agrees completely with the variety of influenza viral kinetics responses observed experimentally when various immune response components are suppressed. Our analysis highlights the strong and weak points of each mathematical model and highlights areas where additional experimental data could elucidate specific mechanisms, constrain model design, and complete our understanding of the immune response to influenza.
+DA  - 2013/02/28/
+PY  - 2013
+DO  - 10.1371/journal.pone.0057088
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 2
+SP  - e57088
+J2  - PLoS ONE
+LA  - en
+SN  - 1932-6203
+UR  - https://dx.plos.org/10.1371/journal.pone.0057088
+Y2  - 2026/09/02/19:49:57
+ER  - 
+
+TY  - JOUR
+TI  - How do viruses get around? A review of mathematical modeling of in-host viral transmission
+AU  - Dobrovolny, Hana M.
+T2  - Virology
+AB  - Mathematical models of within host viral infections have provided important insights into the dynamics of viral infections. There has been much progress in adding more detailed biological processes to these models, such as incorporating the immune response, drug resistance, and viral coinfections. Unfortunately, the default assumption for the majority of these models is that virus is released from infected cells, travels through extracellular space, and deposits on another cell. This mode of transmission is known as cell-free infection. However, virus can also tunnel directly from one cell to another or cause neighboring cells to fuse, processes that also pass the infection to new cells. Additionally, most models do not explicitly include the transport of virus from one cell to another when describing cell-free transmission. In this review, we examine the current state of mathematical modeling that explicitly examines transmission beyond the cell-free assumption. While mathematical models have been developed to examine these processes, there are further improvements that can be made to better capture known viral dynamics.
+DA  - 2025/03//
+PY  - 2025
+DO  - 10.1016/j.virol.2025.110444
+DP  - DOI.org (Crossref)
+VL  - 604
+SP  - 110444
+J2  - Virology
+LA  - en
+SN  - 00426822
+ST  - How do viruses get around?
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S004268222500056X
+Y2  - 2026/09/02/19:50:02
+ER  - 
+
+TY  - JOUR
+TI  - Causes and Consequences of Spatial Within-Host Viral Spread
+AU  - Gallagher, Molly E.
+AU  - Brooke, Christopher B.
+AU  - Ke, Ruian
+AU  - Koelle, Katia
+T2  - Viruses
+AB  - The spread of viral pathogens both between and within hosts is inherently a spatial process. While the spatial aspects of viral spread at the epidemiological level have been increasingly well characterized, the spatial aspects of viral spread within infected hosts are still understudied. Here, with a focus on inﬂuenza A viruses (IAVs), we ﬁrst review experimental studies that have shed light on the mechanisms and spatial dynamics of viral spread within hosts. These studies provide strong empirical evidence for highly localized IAV spread within hosts. Since mathematical and computational within-host models have been increasingly used to gain a quantitative understanding of observed viral dynamic patterns, we then review the (relatively few) computational modeling studies that have shed light on possible factors that structure the dynamics of spatial within-host IAV spread. These factors include the dispersal distance of virions, the localization of the immune response, and heterogeneity in host cell phenotypes across the respiratory tract. While informative, we ﬁnd in these studies a striking absence of theoretical expectations of how spatial dynamics may impact the dynamics of viral populations. To mitigate this, we turn to the extensive ecological and evolutionary literature on range expansions to provide informed theoretical expectations. We ﬁnd that factors such as the type of density dependence, the frequency of long-distance dispersal, speciﬁc life history characteristics, and the extent of spatial heterogeneity are critical factors affecting the speed of population spread and the genetic composition of spatially expanding populations. For each factor that we identiﬁed in the theoretical literature, we draw parallels to its analog in viral populations. We end by discussing current knowledge gaps related to the spatial component of within-host IAV spread and the potential for within-host spatial considerations to inform the development of disease control strategies.
+DA  - 2018/11/13/
+PY  - 2018
+DO  - 10.3390/v10110627
+DP  - DOI.org (Crossref)
+VL  - 10
+IS  - 11
+SP  - 627
+J2  - Viruses
+LA  - en
+SN  - 1999-4915
+UR  - https://www.mdpi.com/1999-4915/10/11/627
+Y2  - 2026/09/02/19:50:06
+ER  - 
+
+TY  - JOUR
+TI  - Understanding the within-host dynamics of influenza A virus: from theory to clinical implications
+AU  - Hadjichrysanthou, Christoforos
+AU  - Cauët, Emilie
+AU  - Lawrence, Emma
+AU  - Vegvari, Carolin
+AU  - De Wolf, Frank
+AU  - Anderson, Roy M.
+T2  - Journal of The Royal Society Interface
+AB  - Mathematical models have provided important insights into acute viral dynamics within individual patients. In this paper, we study the simplest target cell-limited models to investigate the within-host dynamics of influenza A virus infection in humans. Despite the biological simplicity of the models, we show how these can be used to understand the severity of the infection and the key attributes of possible immunotherapy and antiviral drugs for the treatment of infection at different times post infection. Through an analytic approach, we derive and estimate simple summary biological quantities that can provide novel insights into the infection dynamics and the definition of clinical endpoints. We focus on nine quantities, including the area under the viral load curve, peak viral load, the time to peak viral load and the level of cell death due to infection. Using Markov chain Monte Carlo methods, we fitted the models to data collected from 12 untreated volunteers who participated in two clinical studies that tested the antiviral drugs oseltamivir and zanamivir. Based on the results, we also discuss various difficulties in deriving precise estimates of the parameters, even in the very simple models considered, when experimental data are limited to viral load measures and/or there is a limited number of viral load measurements post infection.
+DA  - 2016/06//
+PY  - 2016
+DO  - 10.1098/rsif.2016.0289
+DP  - DOI.org (Crossref)
+VL  - 13
+IS  - 119
+SP  - 20160289
+J2  - J. R. Soc. Interface.
+LA  - en
+SN  - 1742-5689, 1742-5662
+ST  - Understanding the within-host dynamics of influenza A virus
+UR  - https://royalsocietypublishing.org/doi/10.1098/rsif.2016.0289
+Y2  - 2026/09/02/19:50:11
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging Computational Modeling to Understand Infectious Diseases
+AU  - Jenner, Adrianne L.
+AU  - Aogo, Rosemary A.
+AU  - Davis, Courtney L.
+AU  - Smith, Amber M.
+AU  - Craig, Morgan
+T2  - Current Pathobiology Reports
+AB  - Purpose of Review Computational and mathematical modeling have become a critical part of understanding in-host infectious disease dynamics and predicting effective treatments. In this review, we discuss recent findings pertaining to the biological mechanisms underlying infectious diseases, including etiology, pathogenesis, and the cellular interactions with infectious agents. We present advances in modeling techniques that have led to fundamental disease discoveries and impacted clinical translation. Recent Findings Combining mechanistic models and machine learning algorithms has led to improvements in the treatment of Shigella and tuberculosis through the development of novel compounds. Modeling of the epidemic dynamics of malaria at the within-host and between-host level has afforded the development of more effective vaccination and antimalarial therapies. Similarly, in-host and host-host models have supported the development of new HIV treatment modalities and an improved understanding of the immune involvement in influenza. In addition, large-scale transmission models of SARS-CoV-2 have furthered the understanding of coronavirus disease and allowed for rapid policy implementations on travel restrictions and contract tracing apps.
+DA  - 2020/09/24/
+PY  - 2020
+DO  - 10.1007/s40139-020-00213-x
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 4
+SP  - 149
+EP  - 161
+J2  - Curr Pathobiol Rep
+LA  - en
+SN  - 2167-485X
+UR  - https://link.springer.com/10.1007/s40139-020-00213-x
+Y2  - 2026/09/02/19:50:15
+ER  - 
+
+TY  - JOUR
+TI  - Challenges in dengue research: A computational perspective
+AU  - Lourenço, José
+AU  - Tennant, Warren
+AU  - Faria, Nuno R.
+AU  - Walker, Andrew
+AU  - Gupta, Sunetra
+AU  - Recker, Mario
+T2  - Evolutionary Applications
+AB  - The dengue virus is now the most widespread arbovirus affecting human populations, causing significant economic and social impact in South America and South-East Asia. Increasing urbanization and globalization, coupled with insufficient resources for control, misguided policies or lack of political will, and expansion of its mosquito vectors are some of the reasons why interventions have so far failed to curb this major public health problem. Computational approaches have elucidated on dengue’s population dynamics with the aim to provide not only a better understanding of the evolution and epidemiology of the virus but also robust intervention strategies. It is clear, however, that these have been insufficient to address key aspects of dengue’s biology, many of which will play a crucial role for the success of future control programmes, including vaccination. Within a multiscale perspective on this biological system, with the aim of linking evolutionary, ecological and epidemiological thinking, as well as to expand on classic modelling assumptions, we here propose, discuss and exemplify a few major computational avenues—real-time computational analysis of genetic data, phylodynamic modelling frameworks, within-host model frameworks and GPU-accelerated computing. We argue that these emerging approaches should offer valuable research opportunities over the coming years, as previously applied and demonstrated in the context of other pathogens.
+DA  - 2018/04//
+PY  - 2018
+DO  - 10.1111/eva.12554
+DP  - DOI.org (Crossref)
+VL  - 11
+IS  - 4
+SP  - 516
+EP  - 533
+J2  - Evolutionary Applications
+LA  - en
+SN  - 1752-4571, 1752-4571
+ST  - Challenges in dengue research
+UR  - https://onlinelibrary.wiley.com/doi/10.1111/eva.12554
+Y2  - 2026/09/02/19:50:20
+ER  - 
+
+TY  - JOUR
+TI  - Viral Dynamic Models During <span style="font-variant:small-caps;">COVID</span> ‐19: Are We Ready for the Next Pandemic?
+AU  - Marc, Aurelien
+AU  - Schiffer, Joshua T.
+AU  - Mentré, France
+AU  - Perelson, Alan S.
+AU  - Guedj, Jérémie
+T2  - CPT: Pharmacometrics & Systems Pharmacology
+AB  - Mathematical models have been used for about 30 years to improve our understanding of virus-host interaction, in particular during chronic infections. During the COVID-19 pandemic, these models have been used to provide insights into the natural history of acute SARS-CoV-2 infection, optimize antiviral treatment strategies, understand factors associated with transmission, and optimize surveillance systems. The impact of modeling has been accelerated by the availability of unprecedented multidimensional immune data from animal and human systems, which enhanced partnerships between experimentalists and theorists and led to exciting new modeling and statistical developments. In this mini review, we examine the lessons learned from the COVID-19 pandemic and discuss the main insights provided by mathematical models of viral dynamics at the different stages of the outbreak. Although we focus on respiratory infection, we also consider the new areas for development in anticipation of future acute infections from new or reemerging pathogens.
+DA  - 2025/08//
+PY  - 2025
+DO  - 10.1002/psp4.70055
+DP  - DOI.org (Crossref)
+VL  - 14
+IS  - 8
+SP  - 1289
+EP  - 1297
+J2  - CPT Pharmacom & Syst Pharma
+LA  - en
+SN  - 2163-8306, 2163-8306
+ST  - Viral Dynamic Models During <span style="font-variant
+UR  - https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.70055
+Y2  - 2026/09/02/19:50:25
+ER  - 
+
+TY  - JOUR
+TI  - Towards multiscale modeling of influenza infection
+AU  - Murillo, Lisa N.
+AU  - Murillo, Michael S.
+AU  - Perelson, Alan S.
+T2  - Journal of Theoretical Biology
+AB  - Aided by recent advances in computational power, algorithms, and higher ﬁdelity data, increasingly detailed theoretical models of infection with inﬂuenza A virus are being developed. We review single scale models as they describe inﬂuenza infection from intracellular to global scales, and, in particular, we consider those models that capture details speciﬁc to inﬂuenza and can be used to link different scales. We discuss the few multiscale models of inﬂuenza infection that have been developed in this emerging ﬁeld. In addition to discussing modeling approaches, we also survey biological data on inﬂuenza infection and transmission that is relevant for constructing inﬂuenza infection models. We envision that, in the future, multiscale models that capitalize on technical advances in experimental biology and high performance computing could be used to describe the large spatial scale epidemiology of inﬂuenza infection, evolution of the virus, and transmission between hosts more accurately.
+DA  - 2013/09//
+PY  - 2013
+DO  - 10.1016/j.jtbi.2013.03.024
+DP  - DOI.org (Crossref)
+VL  - 332
+SP  - 267
+EP  - 290
+J2  - Journal of Theoretical Biology
+LA  - en
+SN  - 00225193
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0022519313001501
+Y2  - 2026/09/02/19:50:31
+ER  - 
+
+TY  - JOUR
+TI  - Modelling viral and immune system dynamics
+AU  - Perelson, Alan S.
+T2  - Nature Reviews Immunology
+DA  - 2002/01//
+PY  - 2002
+DO  - 10.1038/nri700
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 1
+SP  - 28
+EP  - 36
+J2  - Nat Rev Immunol
+LA  - en
+SN  - 1474-1733, 1474-1741
+UR  - https://www.nature.com/articles/nri700
+Y2  - 2026/09/02/19:50:37
+ER  - 
+
+TY  - JOUR
+TI  - Mathematical Analysis of HIV-1 Dynamics in Vivo
+AU  - Perelson, Alan S.
+AU  - Nelson, Patrick W.
+T2  - SIAM Review
+AB  - Mathematical models have proven valuable in understanding the dynamics of HIV-1 infection in vivo. By comparing these models to data obtained from patients undergoing antiretroviral drug therapy, it has been possible to determine many quantitative features of the interaction between HIV-1, the virus that causes AIDS, and the cells that are infected by the virus. The most dramatic ﬁnding has been that even though AIDS is a disease that occurs on a time scale of about 10 years, there are very rapid dynamical processes that occur on time scales of hours to days, as well as slower processes that occur on time scales of weeks to months. We show how dynamical modeling and parameter estimation techniques have uncovered these important features of HIV pathogenesis and impacted the way in which AIDS patients are treated with potent antiretroviral drugs.
+DA  - 1999/01//
+PY  - 1999
+DO  - 10.1137/S0036144598335107
+DP  - DOI.org (Crossref)
+VL  - 41
+IS  - 1
+SP  - 3
+EP  - 44
+J2  - SIAM Rev.
+LA  - en
+SN  - 0036-1445, 1095-7200
+UR  - https://epubs.siam.org/doi/10.1137/S0036144598335107
+Y2  - 2026/09/02/19:50:40
+ER  - 
+
+TY  - JOUR
+TI  - Dynamics of hepatitis B virus infection
+AU  - Ribeiro, Ruy M.
+AU  - Lo, Arthur
+AU  - Perelson, Alan S.
+T2  - Microbes and Infection
+AB  - Mathematical models of the dynamics of HIV and hepatitis C virus infection have proven to be of great utility in understanding pathogenesis and designing better treatments. Here, we review the state of the art in modeling and interpreting data obtained from hepatitis B virus infected patients treated with antiviral agents. © 2002 Éditions scientiﬁques et médicales Elsevier SAS. All rights reserved.
+DA  - 2002/07//
+PY  - 2002
+DO  - 10.1016/S1286-4579(02)01603-9
+DP  - DOI.org (Crossref)
+VL  - 4
+IS  - 8
+SP  - 829
+EP  - 835
+J2  - Microbes and Infection
+LA  - en
+SN  - 12864579
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1286457902016039
+Y2  - 2026/09/02/19:50:45
+ER  - 
+
+TY  - JOUR
+TI  - Fighting Cancer with Mathematics and Viruses
+AU  - Santiago, Daniel
+AU  - Heidbuechel, Johannes
+AU  - Kandell, Wendy
+AU  - Walker, Rachel
+AU  - Djeu, Julie
+AU  - Engeland, Christine
+AU  - Abate-Daga, Daniel
+AU  - Enderling, Heiko
+T2  - Viruses
+AB  - After decades of research, oncolytic virotherapy has recently advanced to clinical application, and currently a multitude of novel agents and combination treatments are being evaluated for cancer therapy. Oncolytic agents preferentially replicate in tumor cells, inducing tumor cell lysis and complex antitumor effects, such as innate and adaptive immune responses and the destruction of tumor vasculature. With the availability of different vector platforms and the potential of both genetic engineering and combination regimens to enhance particular aspects of safety and efﬁcacy, the identiﬁcation of optimal treatments for patient subpopulations or even individual patients becomes a top priority. Mathematical modeling can provide support in this arena by making use of experimental and clinical data to generate hypotheses about the mechanisms underlying complex biology and, ultimately, predict optimal treatment protocols. Increasingly complex models can be applied to account for therapeutically relevant parameters such as components of the immune system. In this review, we describe current developments in oncolytic virotherapy and mathematical modeling to discuss the beneﬁt of integrating different modeling approaches into biological and clinical experimentation. Conclusively, we propose a mutual combination of these research ﬁelds to increase the value of the preclinical development and the therapeutic efﬁcacy of the resulting treatments.
+DA  - 2017/08/23/
+PY  - 2017
+DO  - 10.3390/v9090239
+DP  - DOI.org (Crossref)
+VL  - 9
+IS  - 9
+SP  - 239
+J2  - Viruses
+LA  - en
+SN  - 1999-4915
+UR  - https://www.mdpi.com/1999-4915/9/9/239
+Y2  - 2026/09/02/19:50:49
+ER  - 
+
+TY  - JOUR
+TI  - Influenza A virus infection kinetics: quantitative data and models
+AU  - Smith, Amber M.
+AU  - Perelson, Alan S.
+T2  - WIREs Systems Biology and Medicine
+AB  - Abstract
+            
+              Influenza A virus is an important respiratory pathogen that poses a considerable threat to public health each year during seasonal epidemics and even more so when a pandemic strain emerges. Understanding the mechanisms involved in controlling an influenza infection within a host is important and could result in new and effective treatment strategies. Kinetic models of influenza viral growth and decay can summarize data and evaluate the biological parameters governing interactions between the virus and the host. Here we discuss recent viral kinetic models for influenza. We show how these models have been used to provide insight into influenza pathogenesis and treatment, and we highlight the challenges of viral kinetic analysis, including accurate model formulation, estimation of important parameters, and the collection of detailed data sets that measure multiple variables simultaneously.
+              WIREs Syst Biol Med
+              2011 3 429–445 DOI: 10.1002/wsbm.129
+            
+            
+              This article is categorized under:
+              
+                
+                  Analytical and Computational Methods > Computational Methods
+DA  - 2011/07//
+PY  - 2011
+DO  - 10.1002/wsbm.129
+DP  - DOI.org (Crossref)
+VL  - 3
+IS  - 4
+SP  - 429
+EP  - 445
+J2  - WIREs Mechanisms of Disease
+LA  - en
+SN  - 1939-5094, 1939-005X
+ST  - Influenza A virus infection kinetics
+UR  - https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.129
+Y2  - 2026/09/02/19:50:55
+ER  - 
+
+TY  - JOUR
+TI  - Host‐pathogen kinetics during influenza infection and coinfection: insights from predictive modeling
+AU  - Smith, Amber M
+T2  - Immunological Reviews
+AB  - Influenza virus infections are a leading cause of morbidity and mortality worldwide. This is due in part to the continual emergence of new viral variants and to synergistic interactions with other viruses and bacteria. There is a lack of understanding about how host responses work to control the infection and how other pathogens capitalize on the altered immune state. The complexity of multi-pathogen infections makes dissecting contributing mechanisms, which may be non-linear and occur on different time scales, challenging. Fortunately, mathematical models have been able to uncover infection control mechanisms, establish regulatory feedbacks, connect mechanisms across time scales, and determine the processes that dictate different disease outcomes. These models have tested existing hypotheses and generated new hypotheses, some of which have been subsequently tested and validated in the laboratory. They have been particularly a key in studying influenza-bacteria coinfections and will be undoubtedly be useful in examining the interplay between influenza virus and other viruses. Here, I review recent advances in modeling influenza-related infections, the novel biological insight that has been gained through modeling, the importance of model-driven experimental design, and future directions of the field.
+DA  - 2018/09//
+PY  - 2018
+DO  - 10.1111/imr.12692
+DP  - DOI.org (Crossref)
+VL  - 285
+IS  - 1
+SP  - 97
+EP  - 112
+J2  - Immunological Reviews
+LA  - en
+SN  - 0105-2896, 1600-065X
+ST  - Host‐pathogen kinetics during influenza infection and coinfection
+UR  - https://onlinelibrary.wiley.com/doi/10.1111/imr.12692
+Y2  - 2026/09/02/19:50:59
+ER  - 
+
+TY  - JOUR
+TI  - CNS Viral Infections—What to Consider for Improving Drug Treatment: A Plea for Using Mathematical Modeling Approaches
+AU  - Sun, Ming
+AU  - Manson, Martijn L.
+AU  - Guo, Tingjie
+AU  - De Lange, Elizabeth C. M.
+T2  - CNS Drugs
+AB  - Neurotropic viruses may cause meningitis, myelitis, encephalitis, or meningoencephalitis. These inflammatory conditions of the central nervous system (CNS) may have serious and devastating consequences if not treated adequately. In this review, we first summarize how neurotropic viruses can enter the CNS by (1) crossing the blood-brain barrier or blood-cerebrospinal fluid barrier; (2) invading the nose via the olfactory route; or (3) invading the peripheral nervous system. Neurotropic viruses may then enter the intracellular space of brain cells via endocytosis and/or membrane fusion. Antiviral drugs are currently used for different viral CNS infections, even though their use and dosing regimens within the CNS, with the exception of acyclovir, are minimally supported by clinical evidence. We therefore provide considerations to optimize drug treatment(s) for these neurotropic viruses. Antiviral drugs should cross the blood–brain barrier/blood cerebrospinal fluid barrier and pass the brain cellular membrane to inhibit these viruses inside the brain cells. Some antiviral drugs may also require intracellular conversion into their active metabolite(s). This illustrates the need to better understand these mechanisms because these processes dictate drug exposure within the CNS that ultimately determine the success of antiviral drugs for CNS infections. Finally, we discuss mathematical model-based approaches for optimizing antiviral treatments. Thereby emphasizing the potential of CNS physiologically based pharmacokinetic models because direct measurement of brain intracellular exposure in living humans faces ethical restrictions. Existing physiologically based pharmacokinetic models combined with in vitro pharmacokinetic/pharmacodynamic information can be used to predict drug exposure and evaluate efficacy of antiviral drugs within the CNS, to ultimately optimize the treatments of CNS viral infections.
+DA  - 2024/05//
+PY  - 2024
+DO  - 10.1007/s40263-024-01082-3
+DP  - DOI.org (Crossref)
+VL  - 38
+IS  - 5
+SP  - 349
+EP  - 373
+J2  - CNS Drugs
+LA  - en
+SN  - 1172-7047, 1179-1934
+ST  - CNS Viral Infections—What to Consider for Improving Drug Treatment
+UR  - https://link.springer.com/10.1007/s40263-024-01082-3
+Y2  - 2026/09/02/19:51:03
+ER  - 
+
+TY  - JOUR
+TI  - Structural and practical identifiability of within-host models of virus dynamics—A review
+AU  - Tuncer, Necibe
+AU  - Martcheva, Maia
+AU  - Ciupe, Stanca M.
+T2  - Current Opinion in Systems Biology
+DA  - 2025/12//
+PY  - 2025
+DO  - 10.1016/j.coisb.2025.100552
+DP  - DOI.org (Crossref)
+VL  - 42
+SP  - 100552
+J2  - Current Opinion in Systems Biology
+LA  - en
+SN  - 24523100
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2452310025000125
+Y2  - 2026/09/02/19:51:09
+ER  - 
+
+TY  - JOUR
+TI  - Complex Spatial Dynamics of Oncolytic Viruses In Vitro: Mathematical and Experimental Approaches
+AU  - Wodarz, Dominik
+AU  - Hofacre, Andrew
+AU  - Lau, John W.
+AU  - Sun, Zhiying
+AU  - Fan, Hung
+AU  - Komarova, Natalia L.
+T2  - PLoS Computational Biology
+A2  - Wilke, Claus O.
+AB  - Oncolytic viruses replicate selectively in tumor cells and can serve as targeted treatment agents. While promising results have been observed in clinical trials, consistent success of therapy remains elusive. The dynamics of virus spread through tumor cell populations has been studied both experimentally and computationally. However, a basic understanding of the principles underlying virus spread in spatially structured target cell populations has yet to be obtained. This paper studies such dynamics, using a newly constructed recombinant adenovirus type-5 (Ad5) that expresses enhanced jellyfish green fluorescent protein (EGFP), AdEGFPuci, and grows on human 293 embryonic kidney epithelial cells, allowing us to track cell numbers and spatial patterns over time. The cells are arranged in a two-dimensional setting and allow virus spread to occur only to target cells within the local neighborhood. Despite the simplicity of the setup, complex dynamics are observed. Experiments gave rise to three spatial patterns that we call ‘‘hollow ring structure’’, ‘‘filled ring structure’’, and ‘‘disperse pattern’’. An agent-based, stochastic computational model is used to simulate and interpret the experiments. The model can reproduce the experimentally observed patterns, and identifies key parameters that determine which pattern of virus growth arises. The model is further used to study the long-term outcome of the dynamics for the different growth patterns, and to investigate conditions under which the virus population eliminates the target cells. We find that both the filled ring structure and disperse pattern of initial expansion are indicative of treatment failure, where target cells persist in the long run. The hollow ring structure is associated with either target cell extinction or low-level persistence, both of which can be viewed as treatment success. Interestingly, it is found that equilibrium properties of ordinary differential equations describing the dynamics in local neighborhoods in the agent-based model can predict the outcome of the spatial virus-cell dynamics, which has important practical implications. This analysis provides a first step towards understanding spatial oncolytic virus dynamics, upon which more detailed investigations and further complexity can be built.
+DA  - 2012/06/14/
+PY  - 2012
+DO  - 10.1371/journal.pcbi.1002547
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 6
+SP  - e1002547
+J2  - PLoS Comput Biol
+LA  - en
+SN  - 1553-7358
+ST  - Complex Spatial Dynamics of Oncolytic Viruses In Vitro
+UR  - https://dx.plos.org/10.1371/journal.pcbi.1002547
+Y2  - 2026/09/02/19:51:15
+ER  - 
+
+TY  - JOUR
+TI  - Computational modeling approaches to the dynamics of oncolytic viruses
+AU  - Wodarz, Dominik
+T2  - WIREs Systems Biology and Medicine
+AB  - Replicating oncolytic viruses represent a promising treatment approach against cancer, specifically targeting the tumor cells. Significant progress has been made through experimental and clinical studies. Besides these approaches, however, mathematical models can be useful when analyzing the dynamics of virus spread through tumors, because the interactions between a growing tumor and a replicating virus are complex and nonlinear, making them difficult to understand by experimentation alone. Mathematical models have provided significant biological insight into the field of virus dynamics, and similar approaches can be adopted to study oncolytic viruses. The review discusses this approach and highlights some of the challenges that need to be overcome in order to build mathematical and computation models that are clinically predictive.
+              WIREs Syst Biol Med
+              2016, 8:242–252. doi: 10.1002/wsbm.1332
+            
+            
+              This article is categorized under:
+              
+                
+                  Analytical and Computational Methods > Computational Methods
+DA  - 2016/05//
+PY  - 2016
+DO  - 10.1002/wsbm.1332
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 3
+SP  - 242
+EP  - 252
+J2  - WIREs Mechanisms of Disease
+LA  - en
+SN  - 1939-5094, 1939-005X
+UR  - https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.1332
+Y2  - 2026/09/02/19:51:19
+ER  - 
+
+TY  - JOUR
+TI  - Kinetic Modeling of Virus Growth in Cells
+AU  - Yin, John
+AU  - Redovich, Jacob
+T2  - Microbiology and Molecular Biology Reviews
+AB  - SUMMARY
+            When a virus infects a host cell, it hijacks the biosynthetic capacity of the cell to produce virus progeny, a process that may take less than an hour or more than a week. The overall time required for a virus to reproduce depends collectively on the rates of multiple steps in the infection process, including initial binding of the virus particle to the surface of the cell, virus internalization and release of the viral genome within the cell, decoding of the genome to make viral proteins, replication of the genome, assembly of progeny virus particles, and release of these particles into the extracellular environment. For a large number of virus types, much has been learned about the molecular mechanisms and rates of the various steps. However, in only relatively few cases during the last 50 years has an attempt been made—using mathematical modeling—to account for how the different steps contribute to the overall timing and productivity of the infection cycle in a cell. Here we review the initial case studies, which include studies of the one-step growth behavior of viruses that infect bacteria (Qβ, T7, and M13), human immunodeficiency virus, influenza A virus, poliovirus, vesicular stomatitis virus, baculovirus, hepatitis B and C viruses, and herpes simplex virus. Further, we consider how such models enable one to explore how cellular resources are utilized and how antiviral strategies might be designed to resist escape. Finally, we highlight challenges and opportunities at the frontiers of cell-level modeling of virus infections.
+DA  - 2018/06//
+PY  - 2018
+DO  - 10.1128/MMBR.00066-17
+DP  - DOI.org (Crossref)
+VL  - 82
+IS  - 2
+SP  - e00066
+EP  - 17
+J2  - Microbiol Mol Biol Rev
+LA  - en
+SN  - 1092-2172, 1098-5557
+UR  - https://journals.asm.org/doi/10.1128/MMBR.00066-17
+Y2  - 2026/09/02/19:51:23
+ER  - 
+
+TY  - JOUR
+TI  - Mathematical Analysis of Viral Replication Dynamics and Antiviral Treatment Strategies: From Basic Models to Age-Based Multi-Scale Modeling
+AU  - Zitzmann, Carolin
+AU  - Kaderali, Lars
+T2  - Frontiers in Microbiology
+AB  - Viral infectious diseases are a global health concern, as is evident by recent outbreaks of the middle east respiratory syndrome, Ebola virus disease, and re-emerging zika, dengue, and chikungunya fevers. Viral epidemics are a socio-economic burden that causes short- and long-term costs for disease diagnosis and treatment as well as a loss in productivity by absenteeism. These outbreaks and their socio-economic costs underline the necessity for a precise analysis of virus-host interactions, which would help to understand disease mechanisms and to develop therapeutic interventions. The combination of quantitative measurements and dynamic mathematical modeling has increased our understanding of the within-host infection dynamics and has led to important insights into viral pathogenesis, transmission, and disease progression. Furthermore, virus-host models helped to identify drug targets, to predict the treatment duration to achieve cure, and to reduce treatment costs. In this article, we review important achievements made by mathematical modeling of viral kinetics on the extracellular, intracellular, and multi-scale level for Human Immunodeﬁciency Virus, Hepatitis C Virus, Inﬂuenza A Virus, Ebola Virus, Dengue Virus, and Zika Virus. Herein, we focus on basic mathematical models on the population scale (so-called target cell-limited models), detailed models regarding the most important steps in the viral life cycle, and the combination of both. For this purpose, we review how mathematical modeling of viral dynamics helped to understand the virus-host interactions and disease progression or clearance. Additionally, we review different types and effects of therapeutic strategies and how mathematical modeling has been used to predict new treatment regimens.
+DA  - 2018/07/11/
+PY  - 2018
+DO  - 10.3389/fmicb.2018.01546
+DP  - DOI.org (Crossref)
+VL  - 9
+SP  - 1546
+J2  - Front. Microbiol.
+LA  - en
+SN  - 1664-302X
+ST  - Mathematical Analysis of Viral Replication Dynamics and Antiviral Treatment Strategies
+UR  - https://www.frontiersin.org/article/10.3389/fmicb.2018.01546/full
+Y2  - 2026/09/02/19:51:28
+ER  - 
+
+TY  - JOUR
+TI  - Incorporating Intracellular Processes in Virus Dynamics Models
+AU  - Ciupe, Stanca M.
+AU  - Conway, Jessica M.
+T2  - Microorganisms
+AB  - In-host models have been essential for understanding the dynamics of virus infection inside an infected individual. When used together with biological data, they provide insight into viral life cycle, intracellular and cellular virus–host interactions, and the role, efficacy, and mode of action of therapeutics. In this review, we present the standard model of virus dynamics and highlight situations where added model complexity accounting for intracellular processes is needed. We present several examples from acute and chronic viral infections where such inclusion in explicit and implicit manner has led to improvement in parameter estimates, unification of conclusions, guidance for targeted therapeutics, and crossover among model systems. We also discuss trade-offs between model realism and predictive power and highlight the need of increased data collection at finer scale of resolution to better validate complex models.
+DA  - 2024/05//
+PY  - 2024
+DO  - 10.3390/microorganisms12050900
+DP  - www.mdpi.com
+VL  - 12
+IS  - 5
+SP  - 900
+LA  - en
+SN  - 2076-2607
+UR  - https://www.mdpi.com/2076-2607/12/5/900
+Y2  - 2026/09/02/19:59:24
+L1  - https://www.mdpi.com/2076-2607/12/5/900/pdf?version=1714467013
+KW  - intracellular dynamics
+KW  - mathematical modeling
+KW  - viral dynamics model
+KW  - viral life cycle
+ER  - 
+

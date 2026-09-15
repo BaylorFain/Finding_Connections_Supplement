@@ -1,0 +1,3 @@
+Amount via c2c = 0.000000
+Amount via cf = 1001365.000000
+Amount via both = 0.000000
