@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This repository contains the supplementary files mentioned in the manuscript: 
+This repository contains the supplementary files mentioned in the manuscript:  
 **Fain and Dobrovolny, (Submitted), "Finding Connections: A survey of within host viral dynamics modeling techniques"**
 
 to recreate and reproduce the figures and analyses in
