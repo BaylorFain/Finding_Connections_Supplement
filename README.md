@@ -49,7 +49,7 @@ Run the code [Plotter.py](https://github.com/BaylorFain/Finding_Connections_Supp
 1. Run codes:
     - [AB.cu](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Model_Codes/AB/AB.cu)
     - [ODE.py](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Model_Codes/ODE.py)
-    - [AS.py](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Model_Codes/AS.py)
+    - [Age_Structured.py](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Model_Codes/Age_Structured.py)
     - [Gillespie_DV.cu](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Model_Codes/Gillespie_DV.cu)
     - [Gillespie_SV.cu](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Model_Codes/Gillespie_SV.cu)
     - [Tau_Leap_DV.py](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Model_Codes/Tau_Leap_DV.py)
