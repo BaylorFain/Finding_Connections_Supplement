@@ -93,7 +93,7 @@ convertVariables();
 
 cout << beta << endl;
 cout << c << endl;
-cout << rho << endl;
+cout << p << endl;
 cout << k << endl;
 cout << delta  << endl;
 cout << V0 << endl;
