@@ -89,14 +89,14 @@ float RandRateSum;
 
 int main(void){
 
+convertVariables();
+
 cout << beta << endl;
 cout << c << endl;
 cout << p << endl;
 cout << k << endl;
 cout << delta  << endl;
 cout << V0 << endl;
-
-convertVariables();
 
 for (int i=0; i < num_saves; i++){
     savetime[i] = i;
