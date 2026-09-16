@@ -88,29 +88,18 @@ float RandRateSum;
 
 int main(void){
 
+cout << beta[0] << endl;
+cout << c << endl;
+cout << rho << endl;
+cout << k_paper/24.0 << endl;
+cout << delta_paper/24.0 << endl;
+cout << MOI[0] << endl;
+
 convertVariables();
 
 for (int i=0; i < num_saves; i++){
     savetime[i] = i;
 }
-
-float** RateArray;
-RateArray = (float**) calloc(5, sizeof(float*));
-for (int i = 0; i < 5; i++){
-    RateArray[i] = (float*) calloc(2, sizeof(float));
-}
-
-RateArray[0][0] = 0.0;
-RateArray[1][0] = 0.0;
-RateArray[2][0] = 0.0;
-RateArray[3][0] = 0.0;
-RateArray[4][0] = 0.0;
-
-RateArray[0][1] = 0.0;
-RateArray[1][1] = 1.0;
-RateArray[2][1] = 2.0;
-RateArray[3][1] = 3.0;
-RateArray[4][1] = 4.0;
 
 for (int i = 0; i < n_simulations; i++){
 
@@ -148,12 +137,6 @@ for (int i = 0; i < n_simulations; i++){
         Rate3 = p*I*scale;
         Rate4 = c*V;
 
-        RateArray[0][0] = Rate0;
-        RateArray[1][0] = Rate1;
-        RateArray[2][0] = Rate2;
-        RateArray[3][0] = Rate3;
-        RateArray[4][0] = Rate4;
-
         R = Rate0 + Rate1 + Rate2 + Rate3 + Rate4;
         u = PU();
         tau = 1/R * log(1/u);
@@ -168,22 +151,22 @@ for (int i = 0; i < n_simulations; i++){
 
         RandRateSum = u*R;
 
-        if ((RandRateSum >= 0)&(RandRateSum < RateArray[0][0])){
+        if ((RandRateSum >= 0)&(RandRateSum < Rate0)){
             NT += -1;
             NE +=  1;
         }
-        else if ((RandRateSum >= RateArray[0][0])&(RandRateSum < RateArray[0][0]+RateArray[1][0])){
+        else if ((RandRateSum >= Rate0)&(RandRateSum < Rate0+Rate1)){
             NE += -1;
             NI +=  1;
         }
-        else if ((RandRateSum >= RateArray[0][0]+RateArray[1][0])&(RandRateSum < RateArray[0][0]+RateArray[1][0]+RateArray[2][0])){
+        else if ((RandRateSum >= Rate0+Rate1)&(RandRateSum < Rate0+Rate1+Rate2)){
             NI += -1;
             ND +=  1;
         }
-        else if ((RandRateSum >= RateArray[0][0]+RateArray[1][0]+RateArray[2][0])&(RandRateSum < RateArray[0][0]+RateArray[1][0]+RateArray[2][0]+RateArray[3][0])){
+        else if ((RandRateSum >= Rate0+Rate1+Rate2)&(RandRateSum < Rate0+Rate1+Rate2+Rate3)){
             NV +=  1;
         }
-        else if ((RandRateSum >= RateArray[0][0]+RateArray[1][0]+RateArray[2][0]+RateArray[3][0])&(RandRateSum < RateArray[0][0]+RateArray[1][0]+RateArray[2][0]+RateArray[3][0]+RateArray[4][0])){
+        else if ((RandRateSum >= Rate0+Rate1+Rate2+Rate3)&(RandRateSum < Rate0+Rate1+Rate2+Rate3+Rate4)){
             NV += -1;
         }
 
