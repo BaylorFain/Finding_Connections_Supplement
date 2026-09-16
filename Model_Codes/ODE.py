@@ -33,6 +33,13 @@ p = p
 k = k
 delta = delta
 
+print(beta, 'beta')
+print(c, 'c')
+print(p, 'p')
+print(k, 'k')
+print(delta, 'delta')
+print(V0)
+
 n_simulations = 1
 dt = 0.005
 endtime = 24*20
