@@ -36,8 +36,8 @@ if(D*timestep/pow(deltxprime,2.0) > 0.25){
     printf("CHANGE PARAMETERS TO FIT DIFFUSION LIMITS. VALUE MUST BE UNDER 0.5. VALUE SHOWN ABOVE");
     exit(0);
 }
-//Clear Terminal
-system("clear");
+// //Clear Terminal
+// system("clear");
 }
 
 void creatingPathToFolderAndDirectory(int BigIndex, int NumberOfLayers, double MOI, double probi, double beta, double c, double p, double D){
