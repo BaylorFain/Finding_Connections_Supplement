@@ -49,7 +49,7 @@ double PU(){
 }
 
 void convertVariables(){
-    beta = beta*(4.0*pow(10,8))/T0; 
+    beta = beta*(4.0*pow(10,8)); 
 
     beta = beta/24.0; 
     c = c/24.0;
@@ -132,7 +132,7 @@ for (int i = 0; i < n_simulations; i++){
 
     count = 0;
     while (Time < endtime){
-        Rate0 = beta*V/scale*T;
+        Rate0 = beta*V/scale*T/T0;
         Rate1 = k*E;
         Rate2 = delta*I;
         Rate3 = p*I*scale;
