@@ -175,7 +175,7 @@ for (int i = 0; i < n_simulations; i++){
         D += ND;
         V += tau*(Rate3 - Rate4);
 
-        if (floor(Time) >= savetime[count]){
+        if (Time >= savetime[count]){
 
             FILE *outfile1 = fopen(File1,"a");
             if (outfile1 == NULL){
@@ -183,7 +183,7 @@ for (int i = 0; i < n_simulations; i++){
                 exit(0);
             }
 
-            fprintf(outfile1,"%.0f, %d, %d, %d, %d, %.10f", floor(Time), T, E, I, D, V/scale);
+            fprintf(outfile1,"%.10f, %d, %d, %d, %d, %.10f", Time, T, E, I, D, V/scale);
             fprintf(outfile1,"\n");
             fclose(outfile1);
             count += 1;
