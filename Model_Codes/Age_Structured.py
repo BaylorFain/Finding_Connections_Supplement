@@ -56,8 +56,6 @@ print(k, 'k')
 print(delta, 'delta')
 print(V[0])
 
-exit(0)
-
 for i in range(len(U)):
 
     if (i+1) == len(U):
