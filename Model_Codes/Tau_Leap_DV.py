@@ -29,11 +29,18 @@ I0 = 0
 D0 = 0
 V0 = MOI*T0*10**2
 
-beta = beta*(4.0*pow(10,8))/T0
+beta = beta*(4.0*pow(10,8))
 c = c
 p = p
 k = k
 delta = delta
+
+print(beta, 'beta')
+print(c, 'c')
+print(p, 'p')
+print(k, 'k')
+print(delta, 'delta')
+print(V0)
 
 n_simulations = 1
 tau =  0.005 #dt
@@ -73,7 +80,7 @@ for i in range(n_simulations):
     timetime = 0
     while timetime < endtime:
 
-        Rate[0] = beta*V[i][-1][-1]*T[i][-1][-1]
+        Rate[0] = beta*V[i][-1][-1]*T[i][-1][-1]/T0
         Rate[1] = k*E[i][-1][-1]
         Rate[2] = delta*I[i][-1][-1]
         Rate[3] = p*I[i][-1][-1]
