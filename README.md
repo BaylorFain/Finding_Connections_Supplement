@@ -36,17 +36,19 @@ _Python_ is used to make the plots used in the manuscript. The data for each plo
 
 #### To create plots for figures 1 and 11
 
-Run the code [ollama-quote-parser.py](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Figure%201%20and%2011/ollama-quote-parser.py)
+ - Run the code [ollama-quote-parser.py](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Figure%201%20and%2011/ollama-quote-parser.py)
+ - The plots will be created in [figures](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/Figure%201%20and%2011/figures)
 
 #### To create plots for figures 4 through 9
 
-Run the code [Plotter.py](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Figure%204%20through%209/Plotter.py)
+ - Run the code [Plotter.py](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Figure%204%20through%209/Plotter.py)
+ - The plots will be created in [Output_Plots](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/Figure%204%20through%209/Output_Plots)
 
 ## Reproduction
 
 #### To create the data for figures 1 and 11
 
-1. Acquire all of the articles in [articles](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/articles)
+1. Acquire all of the articles mentioned in [articles](https://github.com/BaylorFain/Finding_Connections_Supplement/tree/main/articles)
 2. Then run [ollama_reader.py](https://github.com/BaylorFain/Finding_Connections_Supplement/blob/main/Ollama_Code/ollama_reader.py)
 3. The output is used to create the plots for figure 1 and 11.
 
