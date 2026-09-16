@@ -9,6 +9,7 @@
 #include <math.h>
 #include <random>
 #include <iostream>
+using namespace std;
 
 // Model parameters
 float Vo = 7.5*pow(10,-2);   //TCID_50/ml 
@@ -88,12 +89,12 @@ float RandRateSum;
 
 int main(void){
 
-cout << beta[0] << endl;
+cout << beta << endl;
 cout << c << endl;
 cout << rho << endl;
-cout << k_paper/24.0 << endl;
-cout << delta_paper/24.0 << endl;
-cout << MOI[0] << endl;
+cout << k << endl;
+cout << delta  << endl;
+cout << V0 << endl;
 
 convertVariables();
 
