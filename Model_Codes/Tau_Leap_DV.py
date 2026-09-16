@@ -54,13 +54,6 @@ I = np.zeros([n_simulations, 1],dtype=tuple)
 D = np.zeros([n_simulations, 1],dtype=tuple)
 V = np.zeros([n_simulations, 1],dtype=tuple)
 
-print(beta, 'beta')
-print(c, 'c')
-print(p, 'p')
-print(1/k, 'k')
-print(1/delta, 'delta')
-print(V0)
-
 for i in range(n_simulations):
     Time[i][0] = [0.0]
     T[i][0] = [T0]
