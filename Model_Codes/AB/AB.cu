@@ -65,7 +65,7 @@ cout << c << endl;
 cout << rho << endl;
 cout << k_paper/24.0 << endl;
 cout << delta_paper/24.0 << endl;
-cout << MOI[0] << endl;
+cout << V0 << endl;
 
 /////////////////////////////////////////////////////////////////////////
 for(int q=0;q<(sizeof(MOI)/sizeof(MOI[0]));q++){
